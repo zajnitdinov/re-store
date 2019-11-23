@@ -1,7 +1,7 @@
-import CartPage from "./cart-page";
-import HomePage from "./home-page";
+import HomePage from './home-page';
+import CartPage from './cart-page';
 
 export {
-    CartPage,
-    HomePage
-}
+  HomePage,
+  CartPage
+};
